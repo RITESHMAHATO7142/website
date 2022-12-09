@@ -1,0 +1,17 @@
+*{
+ margin: 0;
+padding: 0;
+ }   
+ .header{
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(192, 10, 10);
+ }
+.nav{
+    align-items: center;
+    display: flex;
+    margin:auto;
+    padding: auto;
+   background-color: rgb(21, 153, 205); 
+}
